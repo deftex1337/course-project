@@ -1,0 +1,13 @@
+.banner {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(./image/bg-logo.jpg);
+  background-size: cover;
+}
+.banner:hover {
+  background-color: red;
+}/*# sourceMappingURL=styles1.css.map */
